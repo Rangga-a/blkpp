@@ -1,0 +1,15 @@
+Hello World!
+Ini adalah baris pertama.
+Ini adalah baris kedua.
+Ini adalah baris ketiga.
+Ini adalah baris keempat.
+Ini adalah baris kelima.
+Ini adalah baris keenam.
+Ini adalah baris ketujuh.
+Ini adalah baris kedelapan.
+Ini adalah baris kesembilan.
+goodbye world
+halo
+hola
+hai
+hoe

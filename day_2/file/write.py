@@ -1,0 +1,12 @@
+with open ("data.txt", "w") as file:
+    file.write("Hello World!\n")
+    file.write("Ini adalah baris pertama.\n")
+    file.write("Ini adalah baris kedua.\n")
+    file.write("Ini adalah baris ketiga.\n")
+    file.write("Ini adalah baris keempat.\n")
+    file.write("Ini adalah baris kelima.\n")
+    file.write("Ini adalah baris keenam.\n")
+    file.write("Ini adalah baris ketujuh.\n")  
+    file.write("Ini adalah baris kedelapan.\n")
+    file.write("Ini adalah baris kesembilan.\n")
+    file.write("goodbye world\n")
